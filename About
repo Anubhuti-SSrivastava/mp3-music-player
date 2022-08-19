@@ -1,0 +1,23 @@
+#About Music Players
+Music players are very popular these days because music has become popular.
+Humans respond calmly to music, and good music always cheers you up.
+
+This is why music players like Spotify, Wynk, and Gaana have become popular because they bring music closer to you. 
+Well, in this python music player project, we are going to help you make your own GUI based mp3 music player and have fun while doing it!
+
+
+
+#Python Music Player- Project Details:
+
+In this project, we will create a music player in which we can play the music, pause, stop or resume the music.
+We are creating a project using the tkinter and pygame module. Using the Tkinter library we are creating a GUI for the music player.
+This project requires good knowledge of python and the Tkinter library.
+Tkinter is the python binding to the Tk toolkit which is used across many programming languages for building Graphical user interface which is GUI. 
+This project needs basic understanding of the pygame module is also required.
+
+#Basics of pygame
+Pygame has an inbuilt method called mixer () which provides us intuitive syntax on dealing with sounds files in python.
+
+*)  loading and playing music
+*)  pausing and unpausing music
+*)  stoping the music file
