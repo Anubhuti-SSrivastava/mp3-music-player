@@ -1,0 +1,28 @@
+1)  Tkinter
+It is a standard library for GUI creation. 
+The Tkinter library is most popular and very easy to use and it comes with many widgets (these widgets help in the creation of nice-looking GUI Applications).
+
+Also, Tkinter is a very light-weight module and it is helpful in creating cross-platform applications(so the same code can easily work on Windows, macOS, and Linux)
+
+To use all the functions of Tkinter you need to import it in your code and the command for the same is:
+from tkinter import *
+
+
+
+2)  Pygame 
+It is a Python module that works with computer graphics and sound libraries and is designed with the power of playing with different multimedia formats like audio, video, etc. While creating our Music Player application, we will be using Pygame's mixer.music module for providing different functionality to our music player application that is usually related to the manipulation of the song tracks.
+
+Command used to install the pygame module is:
+pip install pygame
+
+To use this module in your code you need to write this:
+import pygame
+
+
+3) OS module
+This module provides different functions for interaction with the Operating System. In this project for fetching the playlist of songs from the specified directory
+and make it available to the music player application.
+
+To use this module in your code you need to import its and command for the same is as follows:
+
+import OS
